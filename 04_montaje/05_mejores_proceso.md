@@ -1,33 +1,128 @@
-Aquí tienes el apartado 🔧 PROPUESTAS DE MEJORA DEL PROCESO DE MONTAJE rellenado de forma clara, limpia y profesional:
+# 🔧 PROPUESTAS DE MEJORA DEL PROCESO DE MONTAJE
 
-🔧 PROPUESTAS DE MEJORA DEL PROCESO DE MONTAJE
-👨‍💻 Alumno: Javier Olmedo
-🖥️ Equipo: PC de escritorio genérico (torre ATX estándar)
-🎯 OBJETIVO
+## 👨‍💻 Alumno: Antonio González Molina 
+## 🖥️ Equipo:
+
+---
+
+## 🎯 OBJETIVO
+
 Proponer mejoras en el proceso de montaje del equipo informático, basándose en los errores detectados y en la experiencia adquirida durante la práctica.
-⚠️ INSTRUCCIONES
-Debes proponer al menos 3 mejoras reales del proceso de montaje.
-🟢 MEJORA 1
-📌 ¿Qué mejorarías? Uso de protección antiestática.
-📌 ¿Por qué? Porque durante el montaje no se utilizó pulsera antiestática, lo que supone un riesgo real de dañar los componentes por electricidad estática.
-📌 ¿Cómo lo harías mejor? Utilizar siempre una pulsera antiestática conectada a la carcasa metálica de la fuente de alimentación o tocar periódicamente la parte metálica de la caja antes de manipular cualquier componente.
-📌 ¿Qué beneficio tiene? Mayor seguridad para los componentes sensibles (CPU, placa base y RAM), evitando posibles daños permanentes invisibles a simple vista.
-🟢 MEJORA 2
-📌 ¿Qué mejorarías? Gestión y organización de cables.
-📌 ¿Por qué? En el vídeo se observa que los cables quedan desordenados dentro de la caja, lo que dificulta el mantenimiento y puede afectar al flujo de aire.
-📌 ¿Cómo lo harías mejor? Planificar el cableado antes de conectar, usar bridas o velcro para agrupar los cables, pasarlos por detrás de la placa base cuando sea posible y utilizar las canaletas o espacios diseñados para ello.
-📌 Beneficio: Mejor aspecto visual, mayor facilidad para futuros mantenimientos y mejor flujo de aire dentro de la caja.
-🟢 MEJORA 3
-📌 ¿Qué mejorarías? Verificación previa de todos los conectores del panel frontal.
-📌 ¿Por qué? En el montaje se conectaron rápidamente sin consultar el manual, lo que puede provocar que los botones o LEDs no funcionen correctamente.
-📌 ¿Cómo lo harías mejor? Leer el manual de la placa base antes de empezar el cableado del panel frontal, identificar correctamente cada conector (Power SW, Reset SW, HDD LED, Power LED) y comprobar la polaridad (+ y -).
-📌 Beneficio: Evita problemas al encender el equipo y reduce el tiempo de resolución de fallos.
-🧠 REFLEXIÓN FINAL
 
-¿Crees que montar un equipo requiere experiencia? ¿Por qué?
-Sí, montar un equipo requiere experiencia. Aunque los pasos básicos son sencillos, los detalles de seguridad, organización y verificación marcan la diferencia entre un montaje correcto y uno con riesgos.
-¿Qué harías diferente si tuvieras que montar otro equipo desde cero?
-Prepararía mejor el espacio de trabajo, tendría la pulsera antiestática lista desde el principio, planificaría el cableado con antelación y leería el manual de la placa base antes de instalar nada.
-¿Te ves capaz de montar un equipo tú solo/a? Justifica tu respuesta.
-Sí, me veo capaz de montar un equipo yo solo. Ya tengo la experiencia básica de este montaje y conozco los errores más comunes, por lo que con una buena preparación podría hacerlo de forma más profesional y segura.
+---
 
+## ⚠️ INSTRUCCIONES
+
+Debes proponer al menos **3 mejoras reales** del proceso de montaje.
+
+Las mejoras deben ser:
+- Claras
+- Aplicables en un entorno real
+- Relacionadas con problemas detectados o posibles
+
+---
+
+# 🟢 MEJORA 1
+
+📌 ¿Qué mejorarías?
+
+Revisar el manual de la placa base antes de comenzar el montaje y tener a mano una lista de conexiones principales.
+
+📌 ¿Por qué?
+
+Durante el montaje, perdí tiempo buscando dónde conectar cables o no estaba seguro de las conexiones. Leer el manual desde el principio habría ahorrado tiempo y evitado confusiones.
+
+📌 ¿Cómo lo harías mejor?
+
+- Antes de empezar, localizar el manual de la placa base.
+- Leer las secciones de instalación y conexiones principales
+- Identificar los puertos clave: alimentación de CPU, RAM, conectores SATA, USB
+- Tener una lista con los puntos importantes para consultarla durante el montaje
+
+📌 ¿Qué beneficio tiene?
+
+Montaje más rápido, menos errores de conexión, mayor confianza durante el proceso y no perder tiempo pidiendo ayuda constantemente.
+
+---
+
+# 🟢 MEJORA 2
+
+📌 ¿Qué mejorarías?
+
+Organizar el espacio de trabajo y agrupar los componentes antes de comenzar.
+
+📌 ¿Por qué?
+
+Tuve componentes esparcidos por la mesa, lo que causó desorden, confusión y perder tiempo buscando piezas. Esto afectó mi ritmo de trabajo.
+
+📌 ¿Cómo lo harías mejor?
+
+- Antes de empezar, colocar la caja en el centro
+- Agrupar los cables por tipo (alimentación, datos, conectores frontales)
+- Poner en un lado la RAM, CPU y discos duros
+- Dejar espacio libre para trabajar cómodamente
+- Usar una bolsa para guardar tornillos pequeños y no perderlos
+
+
+📌 Beneficio:
+
+Trabajo más ordenado, menos pérdidas de tiempo buscando piezas, evitar perder tornillos pequeños, mejor aprovechamiento del espacio y sensación de control durante el proceso.
+
+
+---
+
+# 🟢 MEJORA 3
+
+📌 ¿Qué mejorarías?
+
+Pedir ayuda o supervisión en los pasos críticos en lugar de asumir riesgos innecesarios.
+
+
+📌 ¿Por qué?
+
+En algunos momentos no estuve seguro de si estaba conectando algo correctamente, pero no pregunté. Esto genera estrés innecesario y aumenta el riesgo de cometer errores costosos.
+
+
+📌 ¿Cómo lo harías mejor?
+
+- Después de instalar CPU y RAM, pedir que el profesor lo revise
+- Antes de conectar la fuente de alimentación, confirmar que todo está bien colocado
+- Consultar con el profesor o compañeros si algo no encaja bien
+- Preguntar sobre conexiones que no están claras en lugar de asumir
+  
+
+📌 Beneficio:
+
+Evita errores costosos, aprende de supervisión directa, gana confianza en cada paso, reduce la ansiedad durante el montaje y asegura que todo se hace correctamente.
+
+
+---
+
+# 🧠 REFLEXIÓN FINAL
+
+- ¿Crees que montar un equipo requiere experiencia? ¿Por qué?
+
+  Sí, requiere experiencia. Después de hacer esta práctica, me doy cuenta de que no es solo saber dónde va cada pieza, sino también entender el proceso, reconocer cuando algo no encaja bien, saber qué precauciones tomar y cómo resolver pequeños problemas. La experiencia ayuda a identificar errores rápidamente y a trabajar con más seguridad.
+  
+
+- ¿Qué harías diferente si tuvieras que montar otro equipo desde cero?
+
+  Leería el manual completo antes de empezar
+  
+  Organizaría todo el espacio de trabajo de forma ordenada desde el inicio
+  
+  No tendría prisa, tomaría mi tiempo en cada paso
+  
+  Pediría ayuda sin dudarlo en los pasos que no entienda bien
+  
+  Haría fotos de cada paso para recordarlo mejor la próxima vez
+  
+  Verificaría cada conexión dos veces antes de avanzar
+  
+  Documentaría los problemas que encuentro para no cometerlos de nuevo
+  
+
+- ¿Te ves capaz de montar un equipo tú solo/a? Justifica tu respuesta.
+
+  Sí, me veo capaz. Ahora que he hecho una vez el montaje, entiendo cómo van las piezas, qué se siente cuando algo encaja correctamente y qué precauciones son importantes. Si tuviera que hacerlo de nuevo, estaría más seguro y lo haría más rápido. Aunque pudiera tener dudas en algunos detalles específicos o en equipos diferentes, tengo la base para resolver esas dudas. Lo importante es que no tengo miedo de intentarlo y sé que puedo consultar manuales o pedir ayuda si lo necesito.
+  
